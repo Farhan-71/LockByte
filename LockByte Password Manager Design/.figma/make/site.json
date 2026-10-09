@@ -1,0 +1,10 @@
+{
+  "description": "Securely manage passwords, generate credentials, and monitor account security with an intuitive dark-mode interface designed for privacy-conscious users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -1,0 +1,41 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python-version
+
+# Local Database Files & Encrypted Keys (NEVER commit user vaults!)
+*.db
+*.sqlite3
+*.dat
+~/.lockbyte/
+biometric.dat
+vault.db
+
+# Debug & Temporary Scripts
+debug_gui.py
+test_*.db
+*.log
+
+# Node & Frontend Build Output
+node_modules/
+LockByte Password Manager Design/node_modules/
+LockByte Password Manager Design/dist/
+.vite/
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project Artifacts & Scratch files
+.artifacts/
+ scratch/

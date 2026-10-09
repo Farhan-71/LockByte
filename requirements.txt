@@ -1,0 +1,37 @@
+# LockByte - Secure Credential Management & Password Security Platform
+
+# Core UI
+PySide6>=6.5.0
+
+# Database
+aiosqlite>=0.19.0
+
+# Cryptography
+cryptography>=41.0.0
+argon2-cffi>=23.1.0
+
+# Password Analysis
+zxcvbn>=2.5
+
+# TOTP
+pyotp>=2.9.0
+
+# Secure random (backport for older Python)
+orjson>=3.9.0
+
+# Configuration
+pyyaml>=6.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Type hints
+typing-extensions>=4.7.0
+
+# Packaging
+pyinstaller>=6.0.0
+requests
+stdiomask
+qtawesome
